@@ -1,2 +1,5 @@
-# terminal-from-the-void
-assorted terminal config files 
+# Terminal Configuration
+assorted terminal config files & details
+
+## Fonts
+https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.0.1
